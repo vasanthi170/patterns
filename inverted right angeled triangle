@@ -1,0 +1,5 @@
+num = 4
+for lines in range(num,0,-1):
+    for st in range(lines):
+        print('*',end=' ')
+    print()
