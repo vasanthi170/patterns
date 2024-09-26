@@ -1,0 +1,5 @@
+num = 4
+for ol in range (1,num+1):
+    for il in range(ol):
+        print('* ',end = '')
+    print()
