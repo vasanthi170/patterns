@@ -1,0 +1,5 @@
+num = 5
+for ol in range(num,0,-1):
+    for il in range(ol,num+1):
+        print(il,end=' ')
+    print()
